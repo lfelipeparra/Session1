@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Session1</string>
+    <string name="nombre">Nombre</string>
+    <string name="apellido">Apellido</string>
+    <string name="formulacio">Registro</string>
+    <string name="registrar">Registrar</string>
+    <string name="info">Información digitada</string>
+    <string name="celular">Celular</string>
+    <string name="correo">Email</string>
+    <string name="masculino">Masculino</string>
+    <string name="femenino">Femenino</string>
+    <string name="cine">Cine</string>
+    <string name="comer">Comer</string>
+    <string name="deporte">Deporte</string>
+    <string name="dormir">Dormir</string>
+    <string name="cuidad">Cuidad</string>
+
+    <string-array name="cuidad_array">
+        <item>Medellín</item>
+        <item>Bogotá</item>
+        <item>Pereira</item>
+    </string-array>
+</resources>
